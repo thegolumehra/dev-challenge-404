@@ -14,6 +14,10 @@ body {
     color: #333;
     height: 100vh;
 }
+/* variables */
+:root{
+    --main-text-color:#3d3d3d;
+}
 /* header */
 .logo {
     font-family: 'Inconsolata', monospace;
